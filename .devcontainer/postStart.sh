@@ -1,2 +1,2 @@
 # Start MongoDB Development DB
-./.devcontainer/startMongoDB.sh
+bash ./.devcontainer/startMongoDB.sh
